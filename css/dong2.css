@@ -1,0 +1,56 @@
+.dong2{
+    min-height: 185
+    px;
+    padding: 0px;
+
+
+}
+.dong2 p{
+    color: white;
+    padding-left: 10px;
+}
+
+.dong2 .tin{
+    height: 35px;
+    line-height: 35px;
+    background-color: rgb(51, 138, 238);
+    margin: 2px 0;
+    border-radius: 0 0 15px;
+    
+
+}
+
+.dong2 .dong2-noidung{
+    min-height: 150px;
+    display: block;border: 1px solid #C9E3F2;
+}
+.dong2-noidung img {
+    border: 1px solid #C9E3F2;
+}
+.dong2-noidung .dong2-trai{
+    width: 48%;
+    /* border-right: 2px black; */
+    float: left;
+   
+}
+ .dong2-trai a
+{
+text-decoration: none;
+  font-size: 17px; margin-right: 3px;
+
+}
+
+
+.dong2-noidung .dong2-phai{
+    width: 50%;
+    border-right: 2px black;
+    float: right;
+    margin-right: 2px;
+
+}
+ .dong2-phai a
+{
+text-decoration: none;
+  font-size: 17px;font-size: 17px; margin-right: 3px;
+
+}
